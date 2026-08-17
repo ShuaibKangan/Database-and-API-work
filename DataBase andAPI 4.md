@@ -22,7 +22,7 @@ ___
 
 >An online store sells a variety of products.
 
->Customers can purchase multiple products in a single order, and the same product can be purchased by many different customers.
+>"*Customers can purchase multiple products in a single order, and the same product can be purchased by many different customers.*"
 
 Entities
 > - customers
@@ -41,7 +41,7 @@ Entities
 
 >A software development company assigns employees to projects.
 
->An employee may work on several projects at the same time. Each project may have multiple employees assigned.
+>"*An employee may work on several projects at the same time. Each project may have multiple employees assigned.*"
 
 **Entities**
 
